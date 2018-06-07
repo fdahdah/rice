@@ -15,7 +15,7 @@ const translations = [
     name: 'disclaimer-text',
     selector: '.disclaimer-text',
     en: 'This product is for informational purposes and was neither prepared nor is suitable for legal, engineering, or surveying purposes. Represented objects have approximate locations relative to a particular moment of the research project. No warranty is made regarding specific accuracy or completeness. Rice University and the imagineRio research team assume no liability or damages due to errors or omissions.',
-    pr: 'Este produto tem fins informativos e não foi preparado nem é adequado para fins legais, de engenharia ou de levantamento topográfico. Não representa um estudo in sitiu e apenas representa localizações relativas aproximadas. Não há qualquer garantia referente à precisão específica ou ao caráter integral deste produto e a Rice University assim como a equipe de pesquisa de imagineRio não assumem qualquer responsabilidade nem respondem por danos decorrentes de erros e omissões.',
+    pr: 'Este produto tem fins informativos e não foi produzido nem é adequado para fins legais, de engenharia ou de levantamento topográfico. Os elementos representados têm localizações aproximadas e correspondem a um momento particular do projeto de pesquisa, não havendo garantia quanto a sua exatidão. A Rice University e a equipe de pesquisa de imagineRio não assumem qualquer responsabilidade em relação a danos devidos a erros ou omissões.',
   },
   {
     name: 'legend-title-text',
