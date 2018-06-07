@@ -3,7 +3,7 @@ const translations = [
     name: 'jump-to-era',
     selector: '.era-dropdown-text',
     en: 'Jump to era... ',
-    pr: 'Jump to era... ',
+    pr: 'Ir direto para o período... ',
   },
   {
     name: 'h1',
@@ -21,52 +21,52 @@ const translations = [
     name: 'legend-title-text',
     selector: '.legend-title-text',
     en: 'Map Legend',
-    pr: 'Legenda do Mapa',
+    pr: 'Legenda',
   },
   {
     name: 'explore-map-button-text',
     selector: '.explore-map-button-text',
     en: 'Begin Exploring',
-    pr: 'Ver o mapa',
+    pr: 'Explore',
   },
   {
     name: 'go-to-map',
     en: 'Go to Map',
-    pr: 'Go to Map',
+    pr: 'Ir para o mapa',
   },
   {
     name: 'back-to-text',
     selector: '.back-to-text',
     en: 'Back to ',
-    pr: 'Back to ',
+    pr: 'Retornar para ',
   },
   {
     name: 'start',
     en: 'start',
-    pr: 'start',
+    pr: 'início',
   },
   {
     name: 'click-for-details',
     en: 'Click for details',
-    pr: 'Click for details',
+    pr: 'Cliquar para ver os detalhes',
   },
   {
     name: 'probe-hint-text',
     selector: '.probe-hint-text',
     en: 'Click the map to explore, or',
-    pr: 'Click the map to explore, or',
+    pr: 'Cliquar no mapa para explorar, ou',
   },
   {
     name: 'probe-area-text',
     selector: '.probe-area-text',
     en: 'Expore by area ',
-    pr: 'Explore by area ',
+    pr: 'Explorar por área ',
   },
   {
     name: 'probe-hint-text--mobile',
     selector: '.probe-hint-text--mobile',
     en: 'Tap the map to explore...',
-    pr: 'Tap the map to explore...',
+    pr: 'Clique o mapa para explorar...',
   },
 ];
 
@@ -74,52 +74,52 @@ const eraTranslations = [
   {
     name: '1502-1808',
     en: 'Colonial Rule',
-    pr: 'Colonial Rule',
+    pr: 'Período colonial',
   },
   {
     name: '1808-1821',
     en: 'Royal Rule',
-    pr: 'Royal Rule',
+    pr: 'Período Joanino',
   },
   {
     name: '1822-1831',
     en: 'Imperial Rule I',
-    pr: 'Imperial Rule I',
+    pr: 'Primeiro Império',
   },
   {
     name: '1831-1839',
     en: 'Regency',
-    pr: 'Regency',
+    pr: 'Regência',
   },
   {
     name: '1840-1889',
     en: 'Imperial Rule II',
-    pr: 'Imperial Rule II',
+    pr: 'Segundo Império',
   },
   {
     name: '1889-1930',
     en: 'First Republic',
-    pr: 'First Republic',
+    pr: 'Primeira República',
   },
   {
     name: '1930-1945',
     en: 'Vargas Era',
-    pr: 'Vargas Era',
+    pr: 'Era Vargas',
   },
   {
     name: '1946-1964',
     en: 'Democratic Interlude',
-    pr: 'Democratic Interlude',
+    pr: 'Período democrático',
   },
   {
     name: '1964-1985',
     en: 'Military Dictatorship',
-    pr: 'Military Dictatorship',
+    pr: 'Ditadura Militar',
   },
   {
     name: `1985-${new Date().getFullYear()}`,
     en: 'New Republic',
-    pr: 'New Republic',
+    pr: 'Nova República',
   },
 ];
 
